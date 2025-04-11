@@ -31,8 +31,6 @@ Chaque modification de code passe par une **pull request** vers `develop`, soumi
 - **2 reviewers minimum**
 - **Analyse SonarCloud obligatoire**
   - Blocage automatique si couverture insuffisante (< 90 %) ou détection de vulnérabilités/bogs majeurs
-- **Tests unitaires** lancés dans le pipeline CI
-- **Merge autorisé uniquement si toutes les conditions sont remplies**
 
 ---
 
